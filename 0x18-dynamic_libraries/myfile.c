@@ -27,7 +27,7 @@ return (a - b);
 
 /**
  * multiply- calculates the multiplication of two numbers
- * @: number
+ * @a: number
  * @b: number
  *
  * Return: multiplication
@@ -39,7 +39,7 @@ return (a * b);
 
 /**
  *divide- calculates the division of two numbers
- * @: number
+ * @a: number
  * @b: number
  *
  * Return: division
@@ -51,7 +51,7 @@ return (a / b);
 
 /**
  * mod- calculates the remainder of two numbers
- * @: number
+ * @a: number
  * @b: number
  *
  * Return: modulus
